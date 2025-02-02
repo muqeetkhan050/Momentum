@@ -9,3 +9,23 @@
   margin-top: 0;
   padding-top: 0;
 }
+
+.SideBar {
+  width: 250px;
+  background-color: #0A1931;
+  color: white;
+  height: 100%;
+  padding: 10px;
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 35px;
+  margin-top: 50px;
+}
+
+.SideBar-title{
+  margin: 20px;
+  padding-right: 10px;
+}

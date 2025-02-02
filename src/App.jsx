@@ -3,6 +3,8 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import Header from './Header'
+import SideBar from './SideBar'
+//import MainFeed from './MainFeed'
 
 function App() {
   
@@ -10,7 +12,9 @@ function App() {
   return (
    <div>
    <Header/>
-    this is our momentum app
+    <SideBar/>
+  
+
    </div>
   )
 }
