@@ -4,7 +4,8 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Header from './Header'
 import SideBar from './SideBar'
-//import MainFeed from './MainFeed'
+import Post from './Post'
+
 
 function App() {
   
@@ -13,8 +14,10 @@ function App() {
    <div>
    <Header/>
     <SideBar/>
+    <Post/>
   
-
+      
+   
    </div>
   )
 }
