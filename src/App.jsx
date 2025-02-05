@@ -6,6 +6,7 @@ import Header from './Header'
 import SideBar from './SideBar'
 import Post from './Post'
 import RightBar from './RightBar'
+import Footer from './Footer'
 
 function App() {
   
@@ -16,6 +17,7 @@ function App() {
     <SideBar/>
     <Post/>
     <RightBar/>
+    <Footer/>
   
       
    
